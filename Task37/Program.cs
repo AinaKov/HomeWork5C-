@@ -66,3 +66,5 @@ FillArray(array);
 Console.WriteLine("Массив: ");
 PrintArray(array);
 Multiplication(array);
+
+// Скажите пожалуйста, можно ли вновь созданный массив заставить снова обратиться к функции PrintArray для красивого отображения?
